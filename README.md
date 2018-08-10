@@ -1,5 +1,7 @@
 # Deep Learning with PyTorch
 
+**Personal Enrique Corpa's copy for studying purposes**
+
 This repo contains notebooks and related code for Udacity's Deep Learning with PyTorch lesson. This lesson appears in our [AI Programming with Python Nanodegree program](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089).
 
 * **Part 1:** Introduction to PyTorch and using tensors
